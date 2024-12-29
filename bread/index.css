@@ -1,0 +1,8 @@
+#sobre {
+    display:flex;
+    flex-direction:column;
+}
+
+#bakery1{
+    align-self: center;
+}
